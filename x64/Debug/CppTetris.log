@@ -1,0 +1,13 @@
+﻿  Block.cpp
+  CppTetris.cpp
+  Game.cpp
+  GBlock.cpp
+  IBlock.cpp
+  JBlock.cpp
+  OBlock.cpp
+  SBlock.cpp
+  Screen.cpp
+  TBlock.cpp
+  ZBlock.cpp
+  Generating Code...
+  CppTetris.vcxproj -> C:\CppTetris\x64\Debug\CppTetris.exe
